@@ -17,5 +17,8 @@ status-website:
   name: Inlens Status
   introTitle: "**Inlens** Status page for the Website and API"
 
+workflowSchedule:
+  uptime: "*/15 * * * *" # 15 minutes
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
