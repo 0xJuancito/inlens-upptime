@@ -3,9 +3,9 @@ owner: 0xJuancito # Your GitHub organization or username, where this repository 
 repo: inlens-upptime # The name of this repository
 
 sites:
-  - name: inlens Website
+  - name: Inlens Website
     url: http://inlens.xyz
-  - name: inlens API - Frens | Public Twitter
+  - name: Inlens API - Frens | Public Twitter
     url: http://inlens.xyz/api/frens?username=LensProtocol
   - name: Lens Protocol API
     method: POST
@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://inlens.xyz/birdie.svg
   name: inlens
-  introTitle: "**inlens** System Status Page"
+  introTitle: "**Inlens** System Status Page"
 
 workflowSchedule:
   uptime: "*/15 * * * *" # 15 minutes
