@@ -1,6 +1,6 @@
 [
   {
-    "name": "inlens Website",
+    "name": "Inlens Website",
     "url": "http://inlens.xyz",
     "icon": "https://favicons.githubusercontent.com/inlens.xyz",
     "slug": "inlens-website",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 372,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372,
+    "time": 348,
+    "timeDay": 348,
+    "timeWeek": 348,
+    "timeMonth": 348,
+    "timeYear": 348,
     "dailyMinutesDown": {}
   },
   {
-    "name": "inlens API - Frens | Public Twitter",
+    "name": "Inlens API - Frens | Public Twitter",
     "url": "http://inlens.xyz/api/frens?username=LensProtocol",
     "icon": "https://favicons.githubusercontent.com/inlens.xyz",
     "slug": "inlens-api-frens-public-twitter",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2457,
-    "timeDay": 2457,
-    "timeWeek": 2457,
-    "timeMonth": 2457,
-    "timeYear": 2457,
+    "time": 1894,
+    "timeDay": 1894,
+    "timeWeek": 1894,
+    "timeMonth": 1894,
+    "timeYear": 1894,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 371,
-    "timeWeek": 371,
-    "timeMonth": 371,
-    "timeYear": 371,
+    "time": 437,
+    "timeDay": 437,
+    "timeWeek": 437,
+    "timeMonth": 437,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   }
 ]
