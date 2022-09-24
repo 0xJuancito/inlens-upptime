@@ -13,6 +13,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{"operationName":"Profiles","variables":{"request":{"profileIds":["0x01"]}},"query":"query Profiles($request: ProfileQueryRequest!) {profiles(request: $request) {items {id name}}}"}'
+  - name: Twitter API
+    url: https://twitter.com/i/oauth2/authorize
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
