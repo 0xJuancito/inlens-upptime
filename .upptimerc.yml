@@ -5,7 +5,7 @@ repo: inlens-upptime # The name of this repository
 sites:
   - name: Inlens Website
     url: http://inlens.xyz
-  - name: Inlens API - Frens | Public Twitter
+  - name: Inlens API - Frens
     url: http://inlens.xyz/api/frens?username=LensProtocol
   - name: Lens Protocol API
     method: POST
