@@ -6,7 +6,7 @@ sites:
   - name: Inlens Website
     url: http://inlens.xyz
   - name: Inlens API - Frens
-    url: http://inlens.xyz/api/frens?username=LensProtocol
+    url: $INLENS_API_URL
   - name: Lens Protocol API
     method: POST
     url: https://api.lens.dev
