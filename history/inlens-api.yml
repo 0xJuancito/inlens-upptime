@@ -1,7 +1,7 @@
 url: $INLENS_API_URL
-status: up
-code: 200
-responseTime: 55
-lastUpdated: 2022-12-18T23:04:13.015Z
+status: down
+code: 429
+responseTime: 182
+lastUpdated: 2022-12-19T00:17:32.252Z
 startTime: Sat Sep 24 2022 17:15:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
