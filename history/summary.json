@@ -4,9 +4,9 @@
     "url": "http://inlens.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/inlens.xyz.ico",
     "slug": "inlens-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 552,
     "timeYear": 443,
     "dailyMinutesDown": {
+      "2022-12-27": 0,
       "2022-12-24": 15
     }
   },
