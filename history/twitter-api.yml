@@ -1,7 +1,7 @@
 url: https://twitter.com/i/oauth2/authorize
-status: down
-code: 404
-responseTime: 716
-lastUpdated: 2023-01-07T12:54:30.204Z
+status: up
+code: 200
+responseTime: 261
+lastUpdated: 2023-01-07T13:06:30.490Z
 startTime: Sat Sep 24 2022 14:50:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
